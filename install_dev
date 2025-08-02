@@ -1,0 +1,85 @@
+🎯 Cél:
+A tanulók képesek legyenek:
+
+telepíteni a szükséges eszközöket,
+
+megírni az első Python programjukat,
+
+futtatni azt VS Code-ból vagy terminálból.
+
+🧩 1. Python telepítése (kb. 5 perc)
+Nyisd meg a böngészőt, és menj a hivatalos oldalra:
+👉 https://www.python.org/downloads/
+
+Kattints a „Download Python 3.x.x” gombra. (Ez automatikusan felismeri az operációs rendszert.)
+
+Indítsd el a letöltött telepítőt.
+
+‼️ Fontos! A telepítőben jelöld be ezt a négyzetet:
+✅ „Add Python 3.x to PATH”
+
+Ezután kattints a „Install Now” gombra.
+
+Várd meg, míg lefut a telepítés, majd kattints a „Close” gombra.
+
+🧩 2. Visual Studio Code telepítése (kb. 5 perc)
+Menj a https://code.visualstudio.com oldalra.
+
+Kattints a „Download for Windows / macOS / Linux” gombra (a rendszerednek megfelelő verzióra).
+
+Telepítsd a letöltött fájlt (alapértelmezett beállításokkal is jó).
+
+Indítsd el a Visual Studio Code-ot.
+
+🧩 3. Python kiegészítő telepítése a VS Code-ban (kb. 2 perc)
+Nyisd meg a bal oldali menüben az Extensions (Bővítmények) ikont (vagy Ctrl+Shift+X).
+
+Keresd meg: Python (Publisher: Microsoft)
+
+Kattints a „Install” gombra.
+
+Ez automatikusan felismeri a Python telepítésedet, ha jól be lett állítva a PATH.
+
+🧩 4. Első Python fájl létrehozása és mentése (kb. 3 perc)
+A VS Code-ban kattints a „File” → „New File” vagy használd a Ctrl+N billentyűt.
+
+Mentsd el a fájlt elso_program.py néven:
+
+File → Save As…
+
+Válaszd ki a kívánt mappát
+
+Írd be: elso_program.py
+
+Kattints a „Save”
+
+Írd be ezt a kódot:
+
+python
+Másolás
+Szerkesztés
+print("Helló, világ!")
+🧩 5. A kód futtatása terminálból (kb. 2 perc)
+A VS Code-ban nyisd meg a terminált:
+Terminal → New Terminal vagy `Ctrl+`` (backtick)
+
+Írd be a következőt:
+
+bash
+Másolás
+Szerkesztés
+python elso_program.py
+Eredmény:
+
+Másolás
+Szerkesztés
+Helló, világ!
+🧠 Tipp: ha python nem működik, próbáld meg python3 parancsként, vagy ellenőrizd újra a PATH beállítást.
+
+✅ Ellenőrzőpont
+Feladat	Készen van?
+Python telepítve + PATH pipálva	✅ / ❌
+VS Code feltelepítve	✅ / ❌
+Python bővítmény telepítve VS Code-ba	✅ / ❌
+elso_program.py fájl létrehozva	✅ / ❌
+Program sikeresen lefutott	✅ / ❌
