@@ -39,6 +39,38 @@ https://discord.gg/E7r9AGaf
 
 
 ********Innentől nem fontos********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🧭 1. alkalom: Helló, programozás!
 Időtartam: 130 perc (2 x 60 perc + 10 perc szünet)
 Cél:
