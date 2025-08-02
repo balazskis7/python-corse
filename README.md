@@ -34,8 +34,8 @@ Ha ezt olvasod, akkor téged is várlak, hogy csatlakozz hozzám és kódolgassu
 
 **Írj, ha érdekel, és megbeszéljük első alkalom 2025-08-03 18:00**
 
-**Tala a Discordon bazsi6285
-**
+**Tala a Discordon bazsi628**
+https://discord.gg/E7r9AGaf
 
 
 ********Innentől nem fontos********
