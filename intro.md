@@ -1,4 +1,8 @@
 **Tanulj velem Pythonul – teljesen az alapoktól!**
+
+
+
+
 Ha mindig is érdekelt a programozás, de nem tudtad, hogyan vágj bele, vagy egyszerűen csak szeretnél megtanulni egy új nyelvet egy támogató környezetben, akkor itt a lehetőség: heti egy alkalommal, két 60 perces blokkban (köztük rövid szünettel) együtt tanulhatunk meg Pythonul gondolkodni és kódolni.
 
 Én is a nulláról indulok ebben a nyelvben, de már stabil programozói tapasztalattal a hátam mögött (cleancode, PHP, NestJS stb.) megmutatom, hogyan állnék neki ma a tanulásnak – lépésről lépésre, gyakorlatorientáltan, közérthetően.
