@@ -32,10 +32,13 @@ Egy fülhallgató (Discord vagy más online hívások miatt).
 
 Ha ezt olvasod, akkor téged is várlak, hogy csatlakozz hozzám és kódolgassunk együtt! Nem számít, ha még sosem kódoltál – itt tényleg nulláról indulunk.
 
-Írj, ha érdekel, és megbeszéljük első alkalom 2025-08-03 18:00
+**Írj, ha érdekel, és megbeszéljük első alkalom 2025-08-03 18:00**
 
-Tala a Discordon bazsi6285
+**Tala a Discordon bazsi6285
+**
 
+
+********Innentől nem fontos********
 🧭 1. alkalom: Helló, programozás!
 Időtartam: 130 perc (2 x 60 perc + 10 perc szünet)
 Cél:
