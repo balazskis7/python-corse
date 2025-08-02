@@ -10,4 +10,5 @@ Ha ezt olvasod, akkor téged is várlak, hogy csatlakozz hozzám és kódolgassu
 
 Írj, ha érdekel, és megbeszéljük, mikor tudsz becsatlakozni!y
 
+Discord---->
 [bazsi6285](https://discord.gg/E7r9AGaf)
